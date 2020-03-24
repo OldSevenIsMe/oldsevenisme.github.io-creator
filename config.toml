@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://oldsevenisme.github.io/"
 languageCode = "zh-Hans"
 title = "郑尔鹏的博客"
 theme = "ananke"
